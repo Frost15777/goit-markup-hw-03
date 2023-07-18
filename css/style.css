@@ -1,0 +1,162 @@
+body {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    color: #434455;
+    background-color: #FFFFFF;
+}
+
+:root {
+    --primary-font: "Roboto", sans-serif;
+    --primary-black-color: #434455;
+    --primary-white-color: #FFFFFF;
+    --secondary-black-color: #2e2f42;
+}
+
+header {
+    background-color: #E7E9FC;
+}
+
+.head-one {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07;
+    color: #FFFFFF;
+    text-align: center;
+    letter-spacing: 0.02em;
+}
+.butn {
+    background-color: #2e2f42;
+}
+
+.head-tw {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+
+.head-thr {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.text-pr {
+    font-size: 16px;
+    font-weight: 400;
+    color: #434455;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.people {
+    background-color: #F4F4FD;
+}
+.worker {
+    background-color: #FFFFFF;
+}
+
+.accent-ps {
+    color: #2E2F42;
+}
+
+.accent-mn {
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4D5AE5;
+    font-size: large;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+    
+}
+.accent-rt {
+    color: #F4F4FD;
+}
+
+.cont-mn {
+    font-style: normal;
+}
+.cont {
+    text-decoration: none;
+    font-weight: 400;
+    color: #434455;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.cont-mn .cont:hover,
+.cont-mn .cont:focus {
+    font-style: normal;
+    color: #404BBF;
+    text-decoration: underline;
+}
+.link {
+    text-decoration: none;
+}
+
+.list .body-m {
+    font-size: medium;
+    color: #2E2F42;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+.list {
+    list-style: none;
+}
+.list .body-m:hover,
+.list .body-m:focus {
+    color: #404BBF;
+    text-decoration: none;
+}
+.catgr {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    letter-spacing: 0.04em;
+    color: #4D5AE5;
+    background-color: #F4F4FD;
+    cursor: pointer;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+button {
+    color: #4D5AE5;
+    cursor: pointer;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+button:hover,
+button:focus {
+    color: #FFFFFF;
+    background-color: #404BBF;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    letter-spacing: 0.04em;
+}
+
+.order {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    letter-spacing: 0.04em;
+    color: #FFFFFF;
+    background-color: #4D5AE5;
+}
+
+.ftr {
+    background-color: #2E2F42;
+}
+
+.fot-tex {
+    font-size: 16px;
+    font-weight: 400;
+    color: #F4F4FD;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
