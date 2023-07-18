@@ -124,7 +124,7 @@ img {
     margin-top: 24px;
     margin-bottom: 24px;
     margin-right: 76px;
-    padding: 24px 0;
+    
 }
 
 .list-header {
@@ -167,6 +167,7 @@ img {
     font-weight: 500;
     color: var(--dark-color);
     display: block;
+    padding: 24px 0;
 }
 
 
